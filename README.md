@@ -1,7 +1,7 @@
 # Database Website
 
-Name : Safa Nadhira A.
-NRP : 5025231086
+Name : Safa Nadhira A. <hr>
+NRP : 5025231086 <hr>
 Class : IUP
 
 ## Database
