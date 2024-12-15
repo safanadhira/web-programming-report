@@ -18,3 +18,6 @@
   In this page, we can see the list of customers sorted by their IDs. we can also add new customers, edit, and delete them. we can do this because it's connected to the sql server so the database is displayed in this page. 
   Screenshot:
   ![image](https://github.com/user-attachments/assets/1ff9b432-fb28-4eea-896f-252a7a7813be)
+
+## Job Description of This Project
+Everything in this project was done by myself.
