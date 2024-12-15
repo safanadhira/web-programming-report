@@ -1,8 +1,8 @@
 # Database Website
 
-Name : Safa Nadhira A. <hr>
-NRP : 5025231086 <hr>
-Class : IUP
+- Name : Safa Nadhira A.
+- NRP : 5025231086
+- Class : IUP
 
 ## Database
 ![image](https://github.com/user-attachments/assets/ac1f167b-2e1e-4477-a2e9-81589a860fe2)
